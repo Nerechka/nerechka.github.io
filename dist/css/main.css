@@ -1,0 +1,105 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 1400px;
+  margin: 0 auto;
+}
+header {
+  height: 70px;
+}
+h1 {
+  font-size: 24px;
+  color: #cc0000;
+}
+.lane {
+  margin-top: 19px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.logo {
+  width: 49px;
+  height: 49px;
+  margin: 0 auto;
+}
+section {
+  height: 1000px;
+}
+.polosa {
+  height: 51px;
+  width: 100%;
+  border: 1px solid #d9d9d4;
+  background: #f2f2ed;
+}
+nav {
+  float: left;
+  margin-top: -35px;
+}
+.menu {
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-text-decoration-color: #da185c;
+          text-decoration-color: #da185c;
+}
+.menu li {
+  float: left;
+  display: block;
+  margin-right: 19px;
+}
+.menu li a {
+  font-size: 16px;
+  color: #cc0000;
+}
+.nav2 {
+  margin-top: 51px;
+}
+.Man {
+  margin-top: 20px;
+}
+h2 {
+  font-size: 36px;
+  color: black;
+  margin-left: 764px;
+  margin-top: -710px;
+}
+p {
+  font-size: 16px;
+  color: #cc0000;
+  margin-left: 764px;
+  margin-top: -19px;
+}
+h3 {
+  font-size: 36px;
+  color: #cc0000;
+  margin-left: 764px;
+  margin-top: 24px;
+}
+.p1 {
+  color: black;
+}
+.lane2 {
+  margin-left: 764px;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.kv1 {
+  text-align: center;
+  height: 65px;
+  width: 65px;
+  border: 1px solid black;
+  background: white;
+  margin-right: 10px;
+}
+.p2 {
+  font-size: 40px;
+  color: black;
+  margin-top: 10px;
+}
