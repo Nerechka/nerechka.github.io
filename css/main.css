@@ -72,7 +72,7 @@ color: #ff1472;
 section
 {
 	background: url(../img/section.png) no-repeat center top;
-	height: 808px;
+	height: 1358px;
 	font-size: 25px;
 	padding: 0;
 	margin: 0;
@@ -158,6 +158,78 @@ section
 	float: right;
 }
 
+.data2 {
+	width: 150px;
+	border: 3px solid black;
+	background: #c869c9;
+	padding: 5px;
+	margin-top: 130px;
+	float: right;
+	margin-right: -580px;
+}
+
+.right5
+{
+	border: 3px solid gold;
+	background: white;
+	padding: 5px;
+	margin-top: 100px;
+	float: left;
+	height: 32px;
+	width: 430px;
+}
+
+.smile
+{
+	width: 25px;
+	height: 25px;
+}
+span {
+	font-weight: bold;
+}
+.right6
+{
+	border: 3px solid black;
+	background: white;
+	padding: 5px;
+	margin-top: 15px;
+	float: left;
+}
+
+.telegram1
+{
+	border: 3px solid black;
+margin-top: 10px;
+float: left;
+}
+
+.right7
+{
+	border: 3px solid black;
+	background: white;
+	padding: 5px;
+	margin-top: 7px;
+	float: left;
+}
+.right8
+{
+	border: 3px solid black;
+	background: white;
+	padding: 5px;
+	margin-top: 7px;
+	float: left;
+	color: #3cbfad;
+}
+.right9
+{
+	border: 3px solid black;
+	background: white;
+	padding: 5px;
+	margin-top: 7px;
+	float: left;
+}
+
+
 
 footer 
 
@@ -168,14 +240,21 @@ footer
 
 .picture 
 {
-	margin: 50px 0px 0px 64px;
+	margin: 50px 0px 0px 50px;
+	text-decoration: none;
 }
 
+.picture2 
+{
+	margin: 55px 0px 0px 2px;
+	text-decoration: none;
+
+}
 .cow 
 {
 position: relative;
 margin-left: 320px;
-margin-top: -99.5px;
+margin-top: -105px;
 }
 .cow img
 {
