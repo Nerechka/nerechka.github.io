@@ -3,13 +3,13 @@ body
  font-family: Comic Sans MS; 
  font-family: sans-serif color black;
  background: url(../img/background.png);
- background-size: 25%;
+ background-size: 27%;
 }
 
 
 
 header 
-{background: url(../img/header.png) no-repeat center top;	
+{background: url(../img/header.gif) no-repeat center top;	
 height: 406px;
 }
 
@@ -46,7 +46,7 @@ color: #ff1472;
 
 .animate img 
 {
-	margin-left: 40%;
+	margin-left: 530px;
 	 margin-top: 108px;
 	position: absolute;
 }
@@ -71,8 +71,8 @@ color: #ff1472;
 
 section
 {
-	background: url(../img/section.png) no-repeat center top;
-	height: 1294px;
+	background: url(../img/section.gif) no-repeat center top;
+	height: 1292px;
 	font-size: 25px;
 	padding: 0;
 	margin: 0;
@@ -234,7 +234,7 @@ float: left;
 footer 
 
 {
-	background: url(../img/Footer.png) no-repeat center top;
+	background: url(../img/footer.gif) no-repeat center top;
 	 height: 367px;
 }
 
@@ -317,4 +317,12 @@ margin-top: 20px;
 {
 	margin-left: 42.5%;
 	margin-top: -85px;
+}
+.button-turn-on {
+	display: none;
+	margin-left: 600px;
+	background:  red;
+	border-radius: 300px;
+	width: 50px;
+	height: 50px;
 }
