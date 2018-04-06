@@ -156,8 +156,8 @@ body {
   position: relative;
   -webkit-transform: rotate(20deg);
           transform: rotate(20deg);
-  -webkit-animation: shining2 12s linear infinite;
-          animation: shining2 12s linear infinite;
+  -webkit-animation: shining2 15s linear 3s infinite;
+          animation: shining2 15s linear 3s infinite;
   4z-index: 2;
 }
 .sun__square2:before {
